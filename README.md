@@ -1,5 +1,9 @@
 # M2_EnergyMeter
 
+## Badges
+
+[![Static code Cppcheck](https://github.com/RitikParashar/M2_EnergyMeter/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/RitikParashar/M2_EnergyMeter/actions/workflows/cpp_check.yml)
+
 # Introduction
 
 Smart Meters is a new product introduced by Government of
