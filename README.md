@@ -4,6 +4,8 @@
 
 [![Static code Cppcheck](https://github.com/RitikParashar/M2_EnergyMeter/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/RitikParashar/M2_EnergyMeter/actions/workflows/cpp_check.yml)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b367650c263c40b8b973fc5482d2a080)](https://www.codacy.com/gh/RitikParashar/M2_EnergyMeter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RitikParashar/M2_EnergyMeter&amp;utm_campaign=Badge_Grade)
+
 # Introduction
 
 Smart Meters is a new product introduced by Government of
